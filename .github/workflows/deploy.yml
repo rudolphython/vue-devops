@@ -37,7 +37,7 @@ jobs:
 
 
       - name: Test Unit
-        run : yarn testunit
+        run : yarn test:unit
 
 
       - name: Build page
